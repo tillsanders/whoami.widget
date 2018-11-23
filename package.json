@@ -1,0 +1,14 @@
+{
+  "name": "whoami.widget",
+  "version": "0.1.0",
+  "description": "Quick and dirty experiment to integrate Vue.js with felixhageloh/uebersicht",
+  "main": "whoami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Till Sanders <mail@till-sanders.de>",
+  "license": "MIT",
+  "dependencies": {
+    "vuejs": "^1.0.29"
+  }
+}
